@@ -1,2 +1,2 @@
 # HousingDataSet-Data-Cleaning-Project
-The process used for cleaning the data set is SQL Query.
+The raw dataset has been cleaned using the sql query process.
